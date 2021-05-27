@@ -1,0 +1,9 @@
+julia
+Compat
+Reexport
+Plots
+Roots
+ForwardDiff
+QuadGK
+SpecialFunctions
+SymPy
